@@ -43,7 +43,7 @@ https://designvault.io/shot/1585-0801231143/
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://imgur.com/URx1A0d' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://i.imgur.com/80pU4YE.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
